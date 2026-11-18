@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-11-17T11:15:54 IST" name="Default suite" finished-at="2026-11-17T11:15:57 IST" duration-ms="2947">
+    <groups>
+    </groups>
+    <test started-at="2026-11-17T11:15:54 IST" name="Default test" finished-at="2026-11-17T11:15:57 IST" duration-ms="2947">
+      <class name="testng_package.Copypaste">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testng_package.Copypaste@23348b5d]" started-at="2026-11-17T11:15:54 IST" name="setUp" finished-at="2026-11-17T11:15:57 IST" duration-ms="2233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Copypastemthd()[pri:0, instance:testng_package.Copypaste@23348b5d]" started-at="2026-11-17T11:15:57 IST" name="Copypastemthd" finished-at="2026-11-17T11:15:57 IST" duration-ms="526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Copypastemthd -->
+        <test-method is-config="true" signature="closingmthd()[pri:0, instance:testng_package.Copypaste@23348b5d]" started-at="2026-11-17T11:15:57 IST" name="closingmthd" finished-at="2026-11-17T11:15:57 IST" duration-ms="150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingmthd -->
+      </class> <!-- testng_package.Copypaste -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
